@@ -5,3 +5,5 @@ Step 2:- After cloning open the terminal and type npm run Harsh and run the comm
 Step 3:- Terminal will provide a local host.
 
 Step 4:- Go to the host link and open the page created.
+
+Note:- If you want to try above specified method then just remove line number 43 from code.
