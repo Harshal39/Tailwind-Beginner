@@ -1,9 +1,29 @@
-Step 1:- Clone the github repository in your local storage using git clone https://github.com/Harshal39/Tailwind-Beginner.git command.
+# Tailwind Learning
 
-Step 2:- After cloning open the terminal and type npm run Harsh and run the command.
+## Objective :- To showcase Front-End-Development Skills
 
-Step 3:- Terminal will provide a local host.
+## Skills:- HTML, Tailwind CSS and Figma
 
-Step 4:- Go to the host link and open the page created.
+This is just a basic static webpage to learn Tailwind and Apply it for some project.\
+Tailwind is used over CSS because it allows to add styling without leaving the file.
 
-Note:- If you want to try above specified method then just remove line number 43 from code.
+### Steps to install tailwind:-
+1.Install tailwindcss via npm, and create your tailwind.config.js file.\
+CMD:-```npm install -D tailwindcss```\
+```npx tailwindcss init```
+
+2.Configure your template paths.\
+Add the paths to all of your template files in your ```tailwind.config.js``` file.
+
+3.Add the @tailwind directives for each of Tailwind’s layers to your main CSS file.\
+```@tailwind base;```\
+```@tailwind components;```\
+```@tailwind utilities;```
+
+4.Use Tailwind in HTML file.
+
+__More Information__:- ```https://tailwindcss.com/docs/installation```
+
+CDN:- ``` <script src="https://cdn.tailwindcss.com"></script>```[In body section].
+
+
